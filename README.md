@@ -353,6 +353,7 @@ For the annotated walkthrough and Logfire tracing, see the [same example in the 
 - Read the [docs](https://pydantic.dev/docs/ai/core-concepts/agent/) and the [API reference](https://pydantic.dev/docs/ai/api/pydantic-ai/agent/).
 - Give your agent its batteries: [Pydantic AI Harness](https://pydantic.dev/docs/ai/harness/).
 - Join [Slack](https://logfire.pydantic.dev/docs/join-slack/) or file an issue on [GitHub](https://github.com/pydantic/pydantic-ai/issues).
+- [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/pydantic/pydantic-ai)
 
 ## Part of the Pydantic Stack
 
